@@ -3,6 +3,6 @@
 
 <div style="display: inline_block" align="center">
   
-![img gif](https://github.com/zeurgoAlice/zeurgoAlice/assets/123741872/93e0aa0e-4e0f-4d3a-b4d3-1d92e7462bf4)
+![img gif](https://i.pinimg.com/originals/19/d7/14/19d71479920640e6cd75fbd9edfe8dec.gif)
 
 Estudante do curso: **Desenvolvimento de Sistemas** no [SENAI Jandira](https://jandira.sp.senai.br/)
