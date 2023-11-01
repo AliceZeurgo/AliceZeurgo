@@ -3,6 +3,6 @@
 
 <div style="display: inline_block" align="center">
 
-<img src="https://i.pinimg.com/originals/bf/82/8d/bf828dcc0e99928ec7c124cf4a53e33a.gif">
+<img src="https://i.pinimg.com/originals/43/3d/1e/433d1e607bbe7d54a23302940d449bd5.gif">
 
 Estudante do curso: **Desenvolvimento de Sistemas** no [SENAI Jandira](https://jandira.sp.senai.br/)
